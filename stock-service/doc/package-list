@@ -1,8 +1,0 @@
-com.techprimers.stock.dbservice
-com.techprimers.stock.dbservice.model
-com.techprimers.stock.dbservice.repository
-com.techprimers.stock.dbservice.resource
-com.techprimers.stock.eurekaservice
-com.techprimers.stock.stockservice
-com.techprimers.stock.stockservice.config
-com.techprimers.stock.stockservice.resource
